@@ -25,7 +25,7 @@ Escape - exit the game.
 
 3. Credits:
 
-Programming: Adrian Parus
+Programming: Adrian Parus;
 
-Textures and 3D models: Adrian Parus, various open source artists
+Textures and 3D models: Adrian Parus, various open source artists;
 
