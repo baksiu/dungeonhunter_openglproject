@@ -1,11 +1,11 @@
 # dungeonhunter_openglproject
 The repository consists source files and executables of my first attempts to program the game using OpenGL and C++ programming language.
 
-1. Game characteristics
+# Game characteristics
  
 Dungeon Hunter is a roguelike game. Similiar to other roguelikes, the main point of gameplay is to reach possibly the lowest dungeon level during single play. To achieve that you must reach the door at the end of each level and beat numerous traps and hostile mobs trying to stop you, with each level iteration they power grows, so beware. You can also collect magic scrolls and health potions, which are essential to your survival in lower levels of the dungeon.
 
-2. Key bindings:
+# Key bindings:
 
 WSAD - move;
 
@@ -23,7 +23,7 @@ X - previous sessions statistics;
 
 Escape - exit the game.
 
-3. Credits:
+# Credits:
 
 Programming: Adrian Parus;
 
