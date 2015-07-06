@@ -8,15 +8,24 @@ Dungeon Hunter is a roguelike game. Similiar to other roguelikes, the main point
 2. Key bindings:
 
 WSAD - move;
+
 Mouse - camera movement - x/y axis;
+
 Space - jump;
+
 LPM - crossbow attack;
+
 PPM - use the choosen spell;
+
 1, 2 - choose the spell to use;
+
 X - previous sessions statistics; 
+
 Escape - exit the game.
 
 3. Credits:
 
 Programming: Adrian Parus
+
 Textures and 3D models: Adrian Parus, various open source artists
+
