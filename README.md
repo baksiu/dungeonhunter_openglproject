@@ -1,4 +1,4 @@
-# dungeonhunter_openglproject
+# Dungeon Hunter
 The repository consists source files and executables of my first attempts to program the game using OpenGL and C++ programming language.
 
 # Game characteristics
